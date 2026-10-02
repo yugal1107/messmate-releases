@@ -1,0 +1,38 @@
+{
+  "name": "Navratri 2026",
+  "greeting": "Shubh Navratri! 🪔",
+  "greetingSubtext": "Nine nights of devotion, colour and celebration",
+  "greetingIcon": "flower",
+  "light": {
+    "primary": "#AD1457",
+    "onPrimary": "#FFFFFF",
+    "primaryContainer": "#FCE4EC",
+    "onPrimaryContainer": "#880E4F",
+    "secondary": "#E65100",
+    "onSecondary": "#FFFFFF",
+    "secondaryContainer": "#FFF3E0",
+    "onSecondaryContainer": "#BF360C",
+    "outline": "#9C6B7F",
+    "surface": "#FFF8FA",
+    "onSurface": "#1F1A1C",
+    "surfaceVariant": "#F3DDE5",
+    "error": "#B3261E",
+    "onError": "#FFFFFF"
+  },
+  "dark": {
+    "primary": "#F48FB1",
+    "onPrimary": "#560027",
+    "primaryContainer": "#8E1048",
+    "onPrimaryContainer": "#FCE4EC",
+    "secondary": "#FFB74D",
+    "onSecondary": "#4E2700",
+    "secondaryContainer": "#BF360C",
+    "onSecondaryContainer": "#FFE0B2",
+    "outline": "#C795AB",
+    "surface": "#1A1013",
+    "onSurface": "#F5E6EB",
+    "surfaceVariant": "#3A2B31",
+    "error": "#F2B8B5",
+    "onError": "#601410"
+  }
+}
